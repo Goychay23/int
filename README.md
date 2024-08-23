@@ -7,8 +7,10 @@ rowan library is a network-based interaction library. It reads memory on both se
 or you can install via setup.py
 python ` ` `
 python setup.py sdist
+
 or
 compile source code
+
 C ` ` `
 python setup.py build
 python setup.py install
